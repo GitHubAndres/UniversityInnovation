@@ -1,0 +1,221 @@
+[ID],INSTITUTION,City,State,Transit Score,Bike Score,AirQualityIndex,Airports,Crime Rate,Median Age,Male Population,Female Population,Total Population,Number of Veterans,Foreign-born
+95180,University of Akron,Akron,OH,30,43,43,1,48.67,38.1,96886,100667,197553,12878,10024
+81632,The Research Foundation for The State University of New York,Albany,NY,52,55,41,1,35.39,32.8,47627,50825,98452,3643,11948
+95228,University of New Mexico/Sci. & Tech. Corp.,Albuquerque,NM,29,61,38,1,72.17,36,273323,285808,559131,37443,58200
+71681,Iowa State University,Ames,IA,,69,39,1,15.83,23,33814,31238,65052,2265,8606
+95213,University of Massachusetts,Amherst,MA,,55,34,3,17.23,,,,,,
+20120292,University of Alaska Anchorage,Anchorage,AK,22,52,25,1,64.46,32.2,152945,145750,298695,27492,33258
+72389,University of Michigan,Ann Arbor,MI,49,71,41,1,27.85,28.1,58789,58281,117070,3614,20717
+71986,Ohio University,Athens,OH,,63,41,1,33.41,,,,,,
+84319,University of Georgia,Athens,GA,,39,36,1,39.43,26.5,57415,65148,122563,3953,12868
+71465,Emory University,Atlanta,GA,44,42,40,3,60.54,33.8,223960,239915,463875,18572,32016
+92621,Georgia Institute of TechNology,Atlanta,GA,44,42,40,3,60.54,33.8,223960,239915,463875,18572,32016
+95100,Georgia Regents University,Atlanta,GA,44,42,40,3,60.54,33.8,223960,239915,463875,18572,32016
+71194,Auburn University,Auburn,AL,,38,35,1,24.77,,,,,,
+92729,Augusta University,Augusta,GA,,33,31,1,74.26,,,,,,
+95100,Georgia Health Sciences University,Augusta,GA,,33,31,1,74.26,,,,,,
+95100,Medical College of Georgia Research Institution,Augusta,GA,,33,31,1,74.26,,,,,,
+71711,Johns Hopkins University,Baltimore,MD,53,53,43,1,73.1,34.7,294027,327822,621849,29540,49857
+20100270,The Jackson Laboratory,Bar Harbor,ME,,55,26,1,14.16,,,,,,
+95091,Lehigh University,Bethlehem,PA,33,45,40,3,27.5,35.1,35861,38506,74367,4704,6295
+72341,The UAB Research Foundation,Birmingham,AL,21,31,38,1,78.38,35.6,102122,112789,214911,13212,8258
+72502,Virginia Tech Intellectual Properties Inc.,Blacksburg,VA,38,65,38,1,22.54,,,,,,
+95082,Indiana University,Bloomington,IN,31,58,42,1,34.69,23.5,40588,43227,83815,2368,10033
+71496,Florida Atlantic University,Boca Raton,FL,,56,31,3,29.56,47.3,44760,48466,93226,4367,21117
+89406,Boise State University,Boise,ID,44,99,45,1,23.76,34.9,110099,108181,218280,16004,13409
+71228,Beth Israel Deaconess Medical Center,Boston,MA,72,69,35,3,42.39,31.8,322149,347320,669469,18350,190123
+20100272,Boston College,Boston,MA,72,69,35,3,42.39,31.8,322149,347320,669469,18350,190123
+95014,Boston University/Boston Medical Center,Boston,MA,72,69,35,3,42.39,31.8,322149,347320,669469,18350,190123
+71271,Brigham & Women's Hospital,Boston,MA,72,69,35,3,42.39,31.8,322149,347320,669469,18350,190123
+95034,Children's Hospital Boston,Boston,MA,72,69,35,3,42.39,31.8,322149,347320,669469,18350,190123
+71402,Dana-Farber Cancer Institution,Boston,MA,72,69,35,3,42.39,31.8,322149,347320,669469,18350,190123
+71788,The General Hospital dba Massachusetts General Hospital,Boston,MA,72,69,35,3,42.39,31.8,322149,347320,669469,18350,190123
+95115,Tufts Medical Center,Boston,MA,72,69,35,3,42.39,31.8,322149,347320,669469,18350,190123
+72357,University of Colorado Boulder,Boulder,CO,47,86,37,1,24.97,29,56342,51000,107342,4061,12993
+71267,Bowling Green State University,Bowling Green,OH,,54,43,1,29.57,36.1,135455,144323,279778,15286,9257
+71881,Montana State University,Bozeman,MT,21,62,39,1,32.3,,,,,,
+20100282,South Dakota State University,Brookings,SD,,58,38,1,14.94,,,,,,
+92718,University of Vermont,Burlington,VT,39,81,32,1,33.73,,,,,,
+71588,Harvard University,Cambridge,MA,70,96,35,3,31.49,31.5,55421,54981,110402,2495,27757
+71789,Massachusetts Institute of Technology,Cambridge,MA,70,96,35,3,31.49,31.5,55421,54981,110402,2495,27757
+20120291,The Forsyth Institute,Cambridge,MA,70,96,35,3,31.49,31.5,55421,54981,110402,2495,27757
+72526,Whitehead Institute for Biomedical Research,Cambridge,MA,70,96,35,3,31.49,31.5,55421,54981,110402,2495,27757
+95161,Southern IlliNois University/Carbondale,Carbondale,IL,,49,42,1,53.22,,,,,,
+72406,University of Northern Iowa,Cedar Falls,IA,20,56,40,1,18.26,37.2,34488,33969,68457,4800,5082
+72401,University of North Carolina Chapel Hill,Chapel Hill,NC,37,50,37,1,22.75,33.2,121153,136445,257598,12528,38642
+95103,Zucker Institute for Innovation Commercialization,Charleston,SC,24,50,34,1,43.17,35,63956,71568,135524,9368,5767
+72597,University of North Carolina Charlotte,Charlotte,NC,27,31,39,1,45.8,34.3,396646,430475,827121,36046,128897
+20140297,National Radio AstroNomy Observatory,Charlottesville,VA,38,57,37,1,24.77,,,,,,
+86076,University of Virginia Patent Foundation,Charlottesville,VA,38,57,37,1,24.77,,,,,,
+96017,Loyola University of Chicago,Chicago,IL,65,72,45,3,50.91,34.2,1320015,1400541,2720556,72042,573463
+20000016,RUSH-Presbyterian-St. Luke's Medical Ctr,Chicago,IL,65,72,45,3,50.91,34.2,1320015,1400541,2720556,72042,573463
+95190,University of Chicago/UCTech,Chicago,IL,65,72,45,3,50.91,34.2,1320015,1400541,2720556,72042,573463
+71361,Children's Hospital Cincinnati,Cincinnati,OH,44,36,44,1,55.03,32.7,143654,154883,298537,13699,16896
+72356,University of Cincinnati,Cincinnati,OH,44,36,44,1,55.03,32.7,143654,154883,298537,13699,16896
+92629,Clemson University,Clemson,SC,,57,35,1,23.98,,,,,,
+71321,Case Western Reserve University,Cleveland,OH,44,52,45,1,72.31,36,186436,201623,388059,19849,18830
+71367,Cleveland Clinic,Cleveland,OH,44,52,45,1,72.31,36,186436,201623,388059,19849,18830
+71372,Cold Spring Harbor Laboratory,Cold Spring Harbor,NY,,17,45,3,7.79,,,,,,
+72429,University of South Carolina,Columbia,SC,0,35,36,1,63.78,28,67686,65707,133393,5708,6074
+85917,Nationwide Children's Hospital,Columbus,OH,30,48,43,1,47.43,32.5,413981,435086,849067,40238,101129
+71985,Ohio State University,Columbus,OH,30,48,43,1,47.43,32.5,413981,435086,849067,40238,101129
+92651,University of Miami,Coral Gables,FL,38,56,31,3,17.44,43,111530,125552,237082,1844,170148
+72003,Oregon State University,Corvallis,OR,29,85,40,1,27.35,35.4,80839,83704,164543,9685,19668
+95194,University of Dayton,Dayton,OH,,47,42,1,67.43,32.8,66631,73966,140597,8465,7381
+72554,Wright State University,Dayton,OH,,47,42,1,67.43,32.8,66631,73966,140597,8465,7381
+71464,Embry-Riddle Aeronautical University,Daytona Beach,FL,31,51,30,1,69.82,,,,,,
+80498,Northern Illinois University,Dekalb,IL,,61,44,1,34.96,31.7,101964,101751,203715,4988,50980
+95113,National Jewish Med. and Research Center,Denver,CO,45,72,44,1,54.54,34.1,341137,341408,682545,29363,113222
+95196,University of Denver,Denver,CO,45,72,44,1,54.54,34.1,341137,341408,682545,29363,113222
+72514,Wayne State University,Detroit,MI,36,52,44,1,78.06,34.8,319265,357859,677124,29511,39861
+71435,Duke University,Durham,NC,28,38,37,1,51.85,33.2,121153,136445,257598,12528,38642
+72399,University of New Hampshire,Durham,NH,,59,30,3,12.53,,,,,,
+71846,Michigan State University,East Lansing,MI,,80,41,1,24.24,31.4,54333,59777,114110,5327,8371
+72411,University of Oregon,Eugene,OR,32,72,41,1,46.4,33.4,79071,84377,163448,8896,14503
+71963,Northwestern University,Evanston,IL,51,89,45,3,24.44,36.8,34146,41377,75523,2058,15003
+20100285,University of Alaska,Fairbanks,AK,24,56,23,1,55.04,,,,,,
+71543,George Mason University,Fairfax,VA,38,55,39,3,17.95,36,34749,37033,71782,3779,27797
+72548,Woods Hole Oceanographic Institution,Falmouth,MA,,64,34,3,23.96,38.6,43793,51166,94959,4185,19024
+95124,North Dakota State University,Fargo,ND,24,49,35,1,24.85,30.7,60560,58690,119250,6154,9428
+109486,University of Arkansas Fayetteville,Fayetteville,AR,,50,42,1,27.97,27.1,41959,40873,82832,4744,6313
+71959,Northern Arizona University,Flagstaff,AZ,39,65,34,1,41.32,23.9,33224,37093,70317,3667,4262
+83581,Colorado State University,Fort Collins,CO,28,78,33,1,23.49,29.6,80893,80288,161181,8425,9704
+72404,University of North Texas Health Science Center,Fort Worth,TX,22,39,45,3,46.3,32.6,414126,422843,836969,39182,143404
+85863,University of Florida,Gainesville,FL,,69,27,1,48.21,26,60803,69330,130133,4788,15272
+85951,Colorado School of Mines,Golden,CO,,56,44,1,14.58,37.8,54866,58251,113117,6512,11361
+95232,University of North Dakota,Grand Forks,ND,,62,36,1,24.53,,,,,,
+96031,University of North Carolina at Greensboro,Greensboro,NC,,32,38,1,58.57,35.5,132251,153093,285344,14011,26667
+71441,East Carolina University,Greenville,NC,,43,36,1,46.95,26.2,39897,50691,90588,4283,4183
+20120293,Hackensack University Medical Center,Hackensack,NJ,56,49,46,3,34.25,38.5,41932,44409,86341,2603,27979
+71405,Dartmouth College,Hanover,NH,,80,29,3,9.78,,,,,,
+20160308,University of Southern Mississippi,Hattiesburgh,MS,,48,37,1,58.95,,,,,,
+95166,Stevens Institution of Technology,Hoboken,NJ,74,78,47,3,24.46,35.4,35376,33773,69149,705,40553
+72371,University of Hawaii,Honolulu,HI,56,51,20,1,25.47,,,,,,
+71847,Michigan TechNological University,Houghton,MI,,51,28,1,13.18,,,,,,
+81039,Baylor College of Medicine,Houston,TX,36,49,44,3,58.01,32.6,1149686,1148942,2298628,71898,696210
+72104,Rice University,Houston,TX,36,49,44,3,58.01,32.6,1149686,1148942,2298628,71898,696210
+72372,University of Houston,Houston,TX,36,49,44,3,58.01,32.6,1149686,1148942,2298628,71898,696210
+72342,University of Alabama in Huntsville,Huntsville,AL,11,40,39,1,33.74,38.1,91764,97350,189114,16637,12691
+92675,University of Iowa Research Foundation,Iowa City,IA,,66,41,1,30.03,25.5,37089,37138,74227,2047,9202
+97017,Boyce Thompson Institution for Plant Research,Ithaca,NY,,58,39,1,25.31,,,,,,
+71385,Cornell University,Ithaca,NY,,58,39,1,25.31,,,,,,
+82857,University of North Florida,Jacksonville,FL,21,41,29,1,49.75,35.7,419203,448828,868031,75432,85650
+95090,Kent State University,Kent,OH,,48,43,1,34.13,38.1,96886,100667,197553,12878,10024
+72424,University of Rhode Island,Kingston,RI,,38,37,1,27.35,39.9,38365,42712,81077,4702,10631
+72438,University of Tennessee,Knoxville,TN,27,30,41,1,58.11,33.1,89978,95334,185312,10897,10285
+20140301,University of Louisiana at Lafayette,Lafayette,LA,,47,38,1,47.44,31.7,64018,63643,127661,5206,5396
+95118,New Mexico State University,Las Cruces,NM,,46,37,1,48.21,32.7,47835,53809,101644,9421,11888
+94012,Johns Hopkins University Applied Physics Laboratory,Laurel,MD,32,40,42,1,42.24,33.8,40601,41862,82463,1562,30908
+92679,University of Kansas,Lawrence,KS,35,61,44,1,34.95,27.4,45592,48324,93916,2986,8701
+72379,University of Kentucky Research Foundation,Lexington,KY,27,46,46,1,37.88,34.4,154032,160456,314488,16661,28613
+20100289,NUtech Ventures,Lincoln,NE,24,59,41,1,30.29,32.3,138544,138802,277346,14694,22958
+82984,University of Nebraska,Lincoln,NE,24,59,41,1,30.29,32.3,138544,138802,277346,14694,22958
+94410,University of Arkansas for Medical Sciences,Little Rock,AR,19,32,48,1,59.14,36.6,96997,100989,197986,12343,16640
+20140304,Lawrence Livermore National Laboratory,Livermore,CA,,66,68,3,20.08,36.7,41522,46595,88117,3063,13959
+72010,Utah State University,Logan,UT,,51,41,1,22.43,,,,,,
+71326,Cedars-Sinai Medical Center,Los Angeles,CA,53,59,73,3,30.51,35,1958998,2012898,3971896,85417,1485425
+92748,Childrens Hospital Los Angeles,Los Angeles,CA,53,59,73,3,30.51,35,1958998,2012898,3971896,85417,1485425
+95038,City of Hope National Medical Center & Beckman Research  Institution,Los Angeles,CA,53,59,73,3,30.51,35,1958998,2012898,3971896,85417,1485425
+20000011,Keck Graduate Institution of Applied Life Sciences,Los Angeles,CA,53,59,73,3,30.51,35,1958998,2012898,3971896,85417,1485425
+72432,University of Southern California,Los Angeles,CA,53,59,73,3,30.51,35,1958998,2012898,3971896,85417,1485425
+71648,University of Louisville,Louisville,KY,56,79,46,1,64.34,37.5,298451,316938,615389,39364,37875
+99018,W.A.R.F./University of Wisconsin-Madison,Madison,WI,35,66,40,1,33.1,30.7,122596,126360,248956,9707,30090
+98001,WiSys TechNology Foundation,Madison,WI,35,66,40,1,33.1,30.7,122596,126360,248956,9707,30090
+71717,Kansas State University Research Foundation,Manhattan,KS,,54,44,1,36.16,27.4,45592,48324,93916,2986,8701
+92615,Tufts University,Medford,MA,48,59,35,3,25.11,31,41028,39306,80334,2103,22292
+100083,St. Jude Children's Research Hospital,Memphis,TN,22,41,45,1,81.14,34.1,312237,343523,655760,31189,43318
+20100276,University of Memphis,Memphis,TN,22,41,45,1,81.14,34.1,312237,343523,655760,31189,43318
+2000008,Florida International University,Miami,FL,57,64,34,3,54.37,40.4,215840,225149,440989,7233,260789
+96044,Blood Center of Wisconsin,Milwaukee,WI,49,58,42,1,63.46,31.6,286315,313839,600154,20615,58321
+72579,Marquette University,Milwaukee,WI,49,58,42,1,63.46,31.6,286315,313839,600154,20615,58321
+71822,Medical College of Wisconsin Research Foundation,Milwaukee,WI,49,58,42,1,63.46,31.6,286315,313839,600154,20615,58321
+95263,University of Wisconsin-Milwaulkee,Milwaukee,WI,49,58,42,1,63.46,31.6,286315,313839,600154,20615,58321
+72390,University of Minnesota,Minneapolis,MN,55,83,41,1,54.24,32.4,206547,204388,410935,15217,70769
+20120295,Salish Kootenai College,Missoula,MT,34,60,40,1,42.82,34.7,35002,36022,71024,4733,2771
+95222,University of Montana,Missoula,MT,34,60,40,1,42.82,34.7,35002,36022,71024,4733,2771
+72428,University of South Alabama,Mobile,AL,,34,36,1,58.14,38,91275,103030,194305,11939,7234
+72518,West Virginia University,Morgantown,WV,,40,39,1,42.42,,,,,,
+72373,University of Idaho,Moscow,ID,,58,36,1,24.14,,,,,,
+95008,Ball State University,Muncie,IN,,53,41,1,53.6,27.4,32446,37255,69701,2968,1062
+92609,Vanderbilt University,Nashville,TN,74,72,42,1,57.71,34.1,314231,340365,654596,27942,88193
+95150,Rutgers The State University of New Jersey,New Brunswick,NJ,35,60,46,3,45.49,39.7,32705,33598,66303,2225,21899
+72320,Tulane University,New Orleans,LA,44,66,41,1,75.79,35.9,185736,203881,389617,17388,21679
+71137,Albert Einstein College of Medicine,New York,NY,89,69,45,3,28.29,36,4081698,4468707,8550405,156961,3212500
+92633,Columbia University,New York,NY,89,69,45,3,28.29,36,4081698,4468707,8550405,156961,3212500
+95073,Hospital for Special Surgery,New York,NY,89,69,45,3,28.29,36,4081698,4468707,8550405,156961,3212500
+92617,Memorial Sloan Kettering Cancer Center,New York,NY,89,69,45,3,28.29,36,4081698,4468707,8550405,156961,3212500
+94788,Mount Sinai School of Medicine of NYU,New York,NY,89,69,45,3,28.29,36,4081698,4468707,8550405,156961,3212500
+95119,New York Blood Center,New York,NY,89,69,45,3,28.29,36,4081698,4468707,8550405,156961,3212500
+71940,New York University,New York,NY,89,69,45,3,28.29,36,4081698,4468707,8550405,156961,3212500
+95149,Rockefeller University,New York,NY,89,69,45,3,28.29,36,4081698,4468707,8550405,156961,3212500
+95160,Sloan Kettering Institution for Cancer Research,New York,NY,89,69,45,3,28.29,36,4081698,4468707,8550405,156961,3212500
+95116,New Jersey Institution of Technology,Newark,NJ,65,51,46,3,69.21,34.6,138040,143873,281913,5829,86253
+72361,University of Delaware,Newark,DE,27,61,42,3,58.46,,,,,,
+96010,Eastern Virginia Medical School,Norfolk,VA,36,47,38,1,63.62,30.2,128917,117476,246393,29445,16702
+96020,Old Dominion University,Norfolk,VA,36,47,38,1,63.62,30.2,128917,117476,246393,29445,16702
+95081,Illinois State University,Normal,IL,35,51,43,1,20.23,35.1,37972,40323,78295,3888,7287
+95036,Children's Hospital Oakland Research Institution,Oakland,CA,57,65,75,3,77.93,35.7,203827,215451,419278,12159,113896
+95049,Creighton University,Omaha,NE,24,42,42,1,42.6,34.2,218789,225098,443887,24503,48263
+95189,University of Central Florida,Orlando,FL,33,57,32,1,57.73,33.1,130940,139977,270917,12782,50558
+95208,University of Maine,Orono,ME,,41,27,1,15.83,,,,,,
+95105,Miami University,Oxford,OH,18,53,44,1,14.1,32.7,143654,154883,298537,13699,16896
+95220,University of Mississippi,Oxford,MS,,37,37,1,25.49,,,,,,
+92614,California Institute of Technology,Pasadena,CA,51,70,73,3,26.49,37.6,67712,74534,142246,4618,40779
+99020,University of West Florida,Pensacola,FL,,47,27,1,64.85,,,,,,
+80658,Children's Hospital of Philadelphia,Philadelphia,PA,67,67,42,3,57.59,34.1,741270,826172,1567442,61995,205339
+92804,Drexel University,Philadelphia,PA,67,67,42,3,57.59,34.1,741270,826172,1567442,61995,205339
+95063,Fox Chase Cancer Center,Philadelphia,PA,67,67,42,3,57.59,34.1,741270,826172,1567442,61995,205339
+20160310,Temple University,Philadelphia,PA,67,67,42,3,57.59,34.1,741270,826172,1567442,61995,205339
+72299,Thomas Jefferson University,Philadelphia,PA,67,67,42,3,57.59,34.1,741270,826172,1567442,61995,205339
+72416,University of Pennsylvania,Philadelphia,PA,67,67,42,3,57.59,34.1,741270,826172,1567442,61995,205339
+95279,Wistar Institution,Philadelphia,PA,67,67,42,3,57.59,34.1,741270,826172,1567442,61995,205339
+71318,Carnegie Mellon University,Pittsburgh,PA,55,55,41,1,37.79,32.9,149690,154695,304385,17728,28187
+2000007,Duquesne University,Pittsburgh,PA,55,55,41,1,37.79,32.9,149690,154695,304385,17728,28187
+100267,University of Pittsburgh,Pittsburgh,PA,55,55,41,1,37.79,32.9,149690,154695,304385,17728,28187
+80648,Idaho State University,Pocatello,ID,,42,38,1,39.28,,,,,,
+72002,Oregon Health & Science University,Portland,OR,49,83,42,1,57.66,36.7,313516,318671,632187,29940,86041
+72060,Portland State University,Portland,OR,49,83,42,1,57.66,36.7,313516,318671,632187,29940,86041
+20140302,"Providence Health & Services,Oregon",Portland,OR,49,83,42,1,57.66,36.7,313516,318671,632187,29940,86041
+72068,Princeton University,Princeton,NJ,,88,47,3,11.12,33.3,42581,41650,84231,2604,20428
+92669,Brown University,Providence,RI,47,61,37,1,51.28,29.9,89090,90114,179204,4933,53532
+92737,Brigham Young University,Provo,UT,33,63,42,1,25.52,23.6,56231,59027,115258,2177,10925
+95274,Washington State University Research Foundation,Pullman,WA,,39,38,1,24.24,,,,,,
+71954,North Carolina State University,Raleigh,NC,29,39,38,1,35.35,32.8,219184,232765,451949,16747,65125
+72596,University of Nevada at Reno,Reno,NV,24,52,47,1,57.31,35.7,122292,119151,241443,17089,37070
+72501,Virginia Commonwealth University,Richmond,VA,,51,39,1,55.85,33.6,104793,115496,220289,12538,15741
+83462,Mayo Foundation for Medical Education and Research,Rochester,MN,,57,39,1,21.22,35,54934,57282,112216,6888,17763
+95148,Rochester Institution of TechNology,Rochester,NY,41,60,40,1,62.95,31.4,100135,109673,209808,7288,17735
+72425,University of Rochester,Rochester,NY,41,60,40,1,62.95,31.4,100135,109673,209808,7288,17735
+80839,Louisiana Tech University,Ruston,LA,,28,37,1,44.79,,,,,,
+72448,University of Utah,Salt Lake City,UT,44,74,43,1,52.8,32.1,98364,94296,192660,6829,32166
+72134,Salk Institution for Biological Studies,San Diego,CA,37,43,60,1,26.89,34.5,693826,701081,1394907,92489,373842
+72140,San Diego State University,San Diego,CA,37,43,60,1,26.89,34.5,693826,701081,1394907,92489,373842
+95021,Sanford-Burnham Medical Research Institute,San Diego,CA,37,43,60,1,26.89,34.5,693826,701081,1394907,92489,373842
+95156,The Scripps Research Institution,San Diego,CA,37,43,60,1,26.89,34.5,693826,701081,1394907,92489,373842
+71510,Fred Hutchinson Cancer Research Center,Seattle,WA,60,71,40,1,47.97,35.5,345659,338784,684443,29364,119840
+95260,University of Washington/Wash. Research Foundation,Seattle,WA,60,71,40,1,47.97,35.5,345659,338784,684443,29364,119840
+72407,University of Notre Dame,South Bend,IN,,58,42,1,63.78,32.4,50483,53274,103757,3708,8779
+72513,Washington University in St. Louis,St. Louis,MO,43,58,45,1,76.01,35,153026,162659,315685,17060,21802
+72222,Stanford University,Stanford,CA,40,78,52,3,11.94,33.5,42493,37945,80438,1376,31857
+71869,Mississippi State University,Starkville,MS,,33,36,1,34.84,,,,,,
+72031,Pennsylvania State University,State College,PA,41,78,39,1,24.29,,,,,,
+92788,Oklahoma State University,Stillwater,OK,,61,45,1,28.73,,,,,,
+72358,University of Connecticut,Storrs,CT,,45,36,1,10.47,,,,,,
+71501,Florida State University,Tallahassee,FL,30,45,26,1,59.94,26.2,89390,100504,189894,9575,16720
+71580,H. Lee Moffitt Cancer Center & Research Institute,Tampa,FL,31,55,33,1,48.43,35.3,175517,193511,369028,20636,58795
+72431,University of South Florida,Tampa,FL,31,55,33,1,48.43,35.3,175517,193511,369028,20636,58795
+71180,Arizona State University,Tempe,AZ,45,75,55,1,44.71,28.8,91350,84476,175826,7058,26620
+92730,University of Toledo,Toledo,OH,,46,43,1,61.12,36.1,135455,144323,279778,15286,9257
+95142,Rensselaer Polytechnic Institution,Troy,NY,41,42,33,1,21.77,32.8,47627,50825,98452,3643,11948
+95144,Research Corporation TechNologies,Tucson,AZ,35,66,49,1,54.47,33.6,264893,266781,531674,38182,82220
+72345,University of Arizona,Tucson,AZ,35,66,49,1,54.47,33.6,264893,266781,531674,38182,82220
+20070261,University of Alabama,Tuscaloosa,AL,,37,35,1,47.41,29.1,47293,51045,98338,3647,4706
+95202,University of IlliNois Urbana Champaign,Urbana-Champaign,IL,49,71,43,1,40.97,,,,,,
+20000253,University of South Dakota,Vermillion,SD,,74,28,1,25.5,,,,,,
+71212,Baylor University,Waco,TX,,39,44,1,51.62,29.3,63452,68890,132342,10716,14235
+80010,Brandeis University,Waltham,MA,32,47,35,3,20.33,42.3,41985,46824,88809,1814,21692
+92620,Georgetown University,Washington,DC,100,92,41,3,57.97,33.8,319705,352523,672228,25963,95117
+96045,The Catholic University of America,Washington,DC,100,92,41,3,57.97,33.8,319705,352523,672228,25963,95117
+72075,Purdue Research Foundation,West Lafayette,IN,44,63,42,1,18.22,33.5,34313,36857,71170,5045,5697
+20160309,Wichita State University,Wichita,KS,20,44,43,1,56.21,34.6,192354,197601,389955,23978,40270
+72506,Wake Forest University,Winston-Salem,NC,,29,38,1,55.23,34.7,112520,128712,241232,14521,24302
